@@ -1,3 +1,3 @@
-module github.com/chayim/exchangeratesapi
+module github.com/chayim/exchangeratesapi/v1
 
-go 1.13
+go 1.18
